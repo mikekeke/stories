@@ -1,1 +1,1 @@
-# stories
+Stories I wrote long time ago. Backup storage.
