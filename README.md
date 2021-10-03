@@ -19,4 +19,4 @@ Context-free graphomania
 
 Моднейший QR-код
 
-<img src="donate/qr.jpg" align="left" width="250" height="250">
+<img src="donate/qr.jpg" align="left" width="200" height="200">
