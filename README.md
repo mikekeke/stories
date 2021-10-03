@@ -5,7 +5,7 @@ Context-free graphomania
 * [Tumblr](https://mikekekeke.tumblr.com/post/29042421935/%D0%BA%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%BE%D0%B9-%D0%B4%D0%B2%D0%B5%D1%80%D1%8C) (аутентичные орфографические, пунктуационные и прочие ошибки на месте)
 * [Мракопедия](https://mrakopedia.net/wiki/%D0%9A%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B0,_%D0%BE%D1%82%D0%BA%D1%80%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B5%D1%80%D1%8C)
 
-Остальное тоже есть на [Tumblr](https://mikekekeke.tumblr.com)
+Остальное (кроме "Охотника") тоже есть на [Tumblr](https://mikekekeke.tumblr.com)
 
 ## Контакты
 * [Telegram](https://t.me/mikekekeke) (самый быстрый способ связаться)
