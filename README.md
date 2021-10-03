@@ -18,4 +18,5 @@ Context-free graphomania
 Просто номер карты: `4377 7237 7155 8735`
 
 Моднейший QR-код
+
 <img src="donate/qr.jpg" align="left" width="250" height="250">
