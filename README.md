@@ -12,7 +12,7 @@ Context-free graphomania
 * [Instagram](https://href.li/?https://www.instagram.com/marmalade_poacher)
 * [VK](https://t.me/mikekekeke%3Cbr%3Ehttps://vk.com/littlechavo) (самый не быстрый способ связаться)
 
-## Если хочется задонатить
+### Если хочется задонатить
 Курочку и прочих всегда можно читать бесплатно без регистрации и СМС, но если вдруг жгуче хочется задонатить =)
 
 [Какая-то тинкофф-ссылка](https://www.tinkoff.ru/rm/lazarev.mikhail7/wZMG775150)
