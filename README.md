@@ -7,6 +7,22 @@ Context-free graphomania
 
 Остальное (кроме "Охотника") тоже есть на [Tumblr](https://mikekekeke.tumblr.com)
 
+## Содержимое
+- [Курочка, открой дверь](chiken.md)
+- [Кукушка](cuckoo.md)
+- [В темноте подъездов](darkness.md)
+- [Лисица](fox.md)
+- [Приведение](ghost.md)
+- [В одном королевстве](kingdom.md)
+- [Русалка (не закончено)](mermaid.md)
+- [Клещ](mite.md)
+- [Орк](orc.md)
+- [Рядовой](private.md)
+- [Носок](sock.md)
+- [Дед Мороз](uncle_frost.md)
+- [Володька](vova.md)
+- [Охотник](danger-zone/README.md)
+
 ## Контакты
 * [Telegram](https://t.me/mikekekeke) (самый быстрый способ связаться)
 * [Instagram](https://href.li/?https://www.instagram.com/marmalade_poacher)
@@ -21,4 +37,4 @@ Context-free graphomania
 
 Моднейший QR-код
 
-<img src="donate/qr.jpg" align="left" width="200" height="200">
+<img src="data/qr.jpg" align="left" width="200" height="200">
